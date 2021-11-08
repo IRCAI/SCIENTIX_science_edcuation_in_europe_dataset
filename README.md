@@ -9,7 +9,7 @@ The final dataset contains 3,780 responses in a CSV file. The final dataset is a
 ### Survey Questions
 The survey contains 27 questions as described in the table below. 
 
-<img src="resources/img/data_description.png.png"/>
+<img align="center" src="resources/img/data_description.png">
 
 A copy of the full questionnaire provided to the teachers is found [here](resources/survey_questionnaire.pdf)
 
