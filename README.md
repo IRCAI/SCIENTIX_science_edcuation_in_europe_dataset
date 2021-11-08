@@ -1,4 +1,4 @@
-# SCIENTIX: Science Edcuation_in Europe Dataset
+# SCIENTIX: Science Edcuation in Europe Dataset
 
 This dataset contains responses from teachers to the survey on STEM Education Practices Survey organised in 2018, looking to collect information about how STEM teachers throughout Europe organise their teaching practices. The survey that was conducted contained around 30 questions that focused on different facets of teaching. 
 
